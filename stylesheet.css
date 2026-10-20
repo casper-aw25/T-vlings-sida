@@ -1,0 +1,159 @@
+body
+{
+  background-color: black;
+}
+
+
+
+img
+{
+ width:150px;   
+}
+
+h1
+{
+    color: #d32121;
+    margin-left: 200px;
+    margin-top: -100px;
+}
+
+
+
+
+.match-list 
+{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 30px;
+}
+
+.match-card
+{
+    background-color: #625a58;
+    color: white;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+}
+.match-info,
+.match-meta {
+  font-size: 14px;
+  color: #aaa;
+}
+
+.match-teams {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  margin: 12px 0;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.vs {
+  color: white;
+  font-size: 30px;
+}
+
+table
+{
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 30px;
+    color: white;
+}
+
+th,td 
+{
+    padding: 10px 14px;
+    text-align: left;
+    border-bottom: 1px solid #33302f;
+
+}
+
+th
+{
+    background-color: #33302f;
+}
+
+h2
+{
+    color: white;
+}
+
+.team-logo
+{
+    width: 50px;
+    height:50px;
+    vertical-align: middle;
+
+}
+
+.team-logo1
+{
+    width: 70px;
+    height:70px;
+    vertical-align: middle;
+
+}
+
+.team-logo2
+{
+    width: 70px;
+    height:70px;
+    vertical-align: middle; 
+}
+
+.team-logo3
+{
+    width: 70px;
+    height:70px;
+    vertical-align: middle;  
+}
+
+.team-logo5
+{
+    width: 70px;
+    height:70px;
+    vertical-align: middle;  
+}
+
+.team-logo6
+{
+    width: 70px;
+    height:70px;
+    vertical-align: middle;  
+}
+
+.team-logo4
+{
+    width: 70px;
+    height:70px;
+    vertical-align: middle;  
+}
+
+#top
+{
+    padding-left: 150px;
+    color:#ffffff;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-top: -85px;
+    position: absolute;
+    margin-right: 40px;
+
+}
+
+a
+{
+    color: white;
+    text-decoration: none;
+}
+
+.Rules
+{
+    color: white;
+    font-size: 25px;
+}
